@@ -1,6 +1,16 @@
 {
   "dependencies": {
     "axios": "^1.7.4",
-    "node-fetch": "^2.7.0"
-  }
+    "node-fetch": "^3.3.0" // Versi terbaru yang sesuai
+  },
+  "name": "zodiakid_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
